@@ -1,5 +1,3 @@
-# Kütüphaneler12
-
 - firebase
 - react-router-dom
 - react-icons
